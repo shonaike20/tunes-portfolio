@@ -114,7 +114,7 @@ function App() {
       </div>
 
       <footer className="footer">
-        © 2024 Your Name. All rights reserved.
+        © layosinventory.com
       </footer>
     </div>
   );
