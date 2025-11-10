@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import track1 from './tracks/Ado Stay Gold V1.wav';
+import track1 from './tracks/Stay Gold Final.wav';
 
 function App() {
   const [bioText, setBioText] = useState('');
-  const fullBio = "hi i'm layo! I produce a wide variety of tunes ranging from film scores, to video game tracks to remixes. if you're interested in anything below please reach out. thanks for visiting!";
+  const fullBio = "hi i'm layo! i produce a wide variety of tunes ranging from film scores, to video game tracks to remixes. if you're interested in anything below please reach out. thanks for visiting!";
   
   useEffect(() => {
     const glitchChars = '!<>-_\\/[]{}—=+*^?#________';
